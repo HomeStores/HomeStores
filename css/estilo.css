@@ -13,3 +13,19 @@
 .bg-5 {
     background-color: #59280B
 }
+
+.text-center-titulo {
+    text-align: center;
+	padding: 3%;
+    font-size: 250%;
+}   
+
+.logo {
+    width: 120%;
+    margin-top: -10%;
+}
+
+.text-sobre {
+    font-size: 115%;
+    padding-top: 5%;
+}
