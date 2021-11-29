@@ -30,6 +30,12 @@
     padding-top: 5%;
 }
 
+.button{
+    display: inline-block;
+    margin-left: 7%;
+}
+
 p {
     margin-bottom: -2.5%;
 }
+
